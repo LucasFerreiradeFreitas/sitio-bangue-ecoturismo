@@ -1,0 +1,6 @@
+{
+  "name": "Sítio Banguê Ecoturismo & Hospedagem",
+  "description": "Landing page oficial do Sítio Banguê Eventos, Hospedagem e Ecoturismo em Aldeia, Camaragibe - PE. Lazer rural, chalés, Eco Day Use e turismo pedagógico na Mata Atlântica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
